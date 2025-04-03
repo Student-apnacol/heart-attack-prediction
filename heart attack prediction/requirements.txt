@@ -2,10 +2,7 @@
 numpy
 pandas
 scikit-learn
-xgboost
+RandomForest
 streamlit
-shap
-lime
 matplotlib
-seaborn
 joblib
