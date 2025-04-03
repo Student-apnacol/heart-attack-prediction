@@ -1,8 +1,0 @@
-
-numpy
-pandas
-scikit-learn
-RandomForest
-streamlit
-matplotlib
-joblib
